@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vw2Xk3YmYqQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kozar\\Source\\Repos\\aspnetcore-demo-IT-arch\\Devops\\Devops.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kozar\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}
